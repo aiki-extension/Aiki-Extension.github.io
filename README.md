@@ -13,13 +13,17 @@ Another awesome video directed by Nanna that presents the highlights of the pape
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5zfWqqDvb7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Aiki @ CHI 2021
+
+The paper we published at CHI'21 about Aiki, [**Aiki: Turning Procrastination into Microlearning**](../docs/assets/papers/Aiki-CHI21.pdf), shows that: 
+- People who want to learn Danish can use redirection from time-wasting-websites as a strategy and cue to remember that they should learn
+ - Participants learned quite a bit of Danish and some of them actually found the learning a better use of their time than the 'mindless' scrolling on Facebook
+
+
 [Nanna Inie](https://pure.itu.dk/en/persons/nanna-inie) directed an amazing video showcasing Aiki for the CHI'21 presentation. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4o2DFV7VS9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-The corresponding paper [**Aiki: Turning Procrastination into Microlearning**](../docs/assets/papers/Aiki-CHI21.pdf) shows that: 
-- People who want to learn Danish can use redirection from time-wasting-websites as a strategy and cue to remember that they should learn
- - Participants learned quite a bit of Danish and some of them actually found the learning a better use of their time than the 'mindless' scrolling on Facebook
+
 
 
 ## Team
