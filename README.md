@@ -1,5 +1,5 @@
 
-<h1><img src="aiki-logo.png" style="width:80px; margin-right: 0.5em"/>Aiki</h1>
+<h1><img src="aiki-logo.png" style="width:120px; margin-right: 0.5em"/>Aiki</h1>
 
 ## Aiki @ CHI 2023
 
