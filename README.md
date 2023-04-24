@@ -1,5 +1,6 @@
 
-<h1><img src="aiki-logo.png" style="width:120px; margin-right: 0.5em"/>Aiki - The Browser Extension</h1>
+<img src="aiki-logo.png" style="width:120px; margin-right: 0.5em"/>
+
 
 **Aiki** is a **martial arts principle** that allows a practitioner to redirect an opponent’s power back against themselves.
 
