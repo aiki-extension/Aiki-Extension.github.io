@@ -5,7 +5,7 @@
 
 Aiki is also a browser extension that considers social media (and other time-wasting websites) as the oponent that needs to be fought back against.
 
-Aiki is also our reserarch project that aims to investigate whether we can help an internet user take advantage of their habits of visiting time-wasting web sites and consider the (often involuntary) impulses of visiting the said websites as a reminder for doing something useful, e.g. learning Danish or getting better at programming in Python. What is useful for each user, it is up to them to decide.
+Aiki is also a reserarch project that aims to investigate whether we can help an internet user take advantage of their habits of visiting time-wasting web sites and consider the (often involuntary) impulses of visiting the said websites as a reminder for doing something useful, e.g. learning Danish or getting better at programming in Python. What is useful for each user, it is up to them to decide.
 
 
 ## Aiki @ CHI 2023
