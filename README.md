@@ -1,11 +1,11 @@
 
 <h1><img src="aiki-logo.png" style="width:120px; margin-right: 0.5em"/>Aiki - The Browser Extension</h1>
 
-**Aiki** is a martial arts principle that allows a practitioner to redirect an opponent’s power back against themselves.
+**Aiki** is a **martial arts principle** that allows a practitioner to redirect an opponent’s power back against themselves.
 
-Aiki is also a browser extension that considers social media (and other time-wasting websites) as the oponent that needs to be fought back against.
+**Aiki** is also a **browser extension** that considers social media (and other time-wasting websites) as the oponent that needs to be fought back against.
 
-Aiki is also a reserarch project that aims to investigate whether we can help an internet user take advantage of their habits of visiting time-wasting web sites and consider the (often involuntary) impulses of visiting the said websites as a reminder for doing something useful, e.g. learning Danish or getting better at programming in Python. What is useful for each user, it is up to them to decide.
+Aiki is also our **research project** that aims to investigate whether we can help an internet user take advantage of their habits of visiting time-wasting web sites and use the (often involuntary) impulses of visiting said websites as a reminder for doing something useful, e.g. learning Danish or getting better at programming in Python. What is useful for each user, it is up to them to decide.
 
 
 ## Aiki @ CHI 2023
@@ -17,7 +17,7 @@ It investigates how Aiki 2.0 -- an improved version of Aiki in terms of usabilit
 Another awesome video directed by Nanna that presents the highlights of the paper: 
 
 
-<iframe style="width:100%;max-width:560" height="315" src="https://www.youtube.com/embed/5zfWqqDvb7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:100%" height="315" src="https://www.youtube.com/embed/5zfWqqDvb7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Aiki @ CHI 2021
 
@@ -28,7 +28,7 @@ The paper we published at CHI'21 about Aiki, [**Aiki: Turning Procrastination in
 
 [Nanna Inie](https://pure.itu.dk/en/persons/nanna-inie) directed an amazing video showcasing Aiki for the CHI'21 presentation. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4o2DFV7VS9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:100%" height="315" src="https://www.youtube.com/embed/4o2DFV7VS9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
