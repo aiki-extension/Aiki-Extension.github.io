@@ -17,7 +17,7 @@ It investigates how Aiki 2.0 -- an improved version of Aiki in terms of usabilit
 Another awesome video directed by Nanna that presents the highlights of the paper: 
 
 
-<iframe style="width:100%" height="315" src="https://www.youtube.com/embed/5zfWqqDvb7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:400px" height="315" src="https://www.youtube.com/embed/5zfWqqDvb7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Aiki @ CHI 2021
 
@@ -28,7 +28,7 @@ The paper we published at CHI'21 about Aiki, [**Aiki: Turning Procrastination in
 
 [Nanna Inie](https://pure.itu.dk/en/persons/nanna-inie) directed an amazing video showcasing Aiki for the CHI'21 presentation. 
 
-<iframe style="width:100%" height="315" src="https://www.youtube.com/embed/4o2DFV7VS9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width: 400px" height="315" src="https://www.youtube.com/embed/4o2DFV7VS9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
