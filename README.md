@@ -17,7 +17,7 @@ It investigates how Aiki 2.0 -- an improved version of Aiki in terms of usabilit
 Another awesome video directed by Nanna that presents the highlights of the paper: 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5zfWqqDvb7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:100%;max-width:560" height="315" src="https://www.youtube.com/embed/5zfWqqDvb7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Aiki @ CHI 2021
 
