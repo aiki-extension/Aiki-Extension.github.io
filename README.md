@@ -10,7 +10,7 @@ Aiki is also a reserarch project that aims to investigate whether we can help an
 
 ## Aiki @ CHI 2023
 
-A new paper about Aiki at CHI'23: [**Challenges and Opportunities of Using Redirection of Activity for Self-Regulation Online**](../docs/assets/papers/Aiki-CHI23.pdf)
+A new paper about Aiki at CHI'23: [**Challenges and Opportunities of Using Redirection of Activity for Self-Regulation Online**](https://mircealungu.com/docs/assets/papers/Aiki-CHI23.pdf)
 
 It investigates how Aiki 2.0 -- an improved version of Aiki in terms of usability -- fares to help people drop procrastination and instead learn programming with the help of micro-learning activities. 
 
@@ -21,7 +21,7 @@ Another awesome video directed by Nanna that presents the highlights of the pape
 
 ## Aiki @ CHI 2021
 
-The paper we published at CHI'21 about Aiki, [**Aiki: Turning Procrastination into Microlearning**](../docs/assets/papers/Aiki-CHI21.pdf), shows that: 
+The paper we published at CHI'21 about Aiki, [**Aiki: Turning Procrastination into Microlearning**](https://mircealungu.com/docs/assets/papers/Aiki-CHI21.pdf), shows that: 
 - People who want to learn Danish can use redirection from time-wasting-websites as a strategy and cue to remember that they should learn
  - Participants learned quite a bit of Danish and some of them actually found the learning a better use of their time than the 'mindless' scrolling on Facebook
 
@@ -44,9 +44,9 @@ The paper we published at CHI'21 about Aiki, [**Aiki: Turning Procrastination in
 
 ## Papers
 
-CHI'23: Nanna Inie, Bjørn Hjorth Westh, John Muller, Mircea F. Lungu: [**Challenges and Opportunities of Using Redirection of Activity for Self-Regulation Online**](../docs/assets/papers/Aiki-CHI23.pdf). In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA. 
+CHI'23: Nanna Inie, Bjørn Hjorth Westh, John Muller, Mircea F. Lungu: [**Challenges and Opportunities of Using Redirection of Activity for Self-Regulation Online**](https://mircealungu.com/docs/assets/papers/Aiki-CHI23.pdf). In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA. 
 
-CHI'21: Nanna Inie and Mircea F. Lungu. 2021. [**Aiki: Turning Procrastination into Microlearning**](../docs/assets/papers/Aiki-CHI21.pdf). In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 369, 1–13. https://doi.org/10.1145/3411764.3445202
+CHI'21: Nanna Inie and Mircea F. Lungu. 2021. [**Aiki: Turning Procrastination into Microlearning**](https://mircealungu.com/docs/assets/papers/Aiki-CHI21.pdf). In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). Association for Computing Machinery, New York, NY, USA, Article 369, 1–13. https://doi.org/10.1145/3411764.3445202
 
 
 # Download
